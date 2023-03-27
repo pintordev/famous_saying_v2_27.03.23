@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CommandRegister {
 
     private final Scanner sc;
-    private int order = 0;
+    private static int order = 0;
 
     public CommandRegister(Scanner sc) {
         this.sc = sc;
