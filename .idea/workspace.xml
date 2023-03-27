@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b0f938a-0384-4560-bc34-f17708d4cea2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CommandRegister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/git_ex.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../test2.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../test3.txt" beforeDir="false" />
@@ -64,5 +61,16 @@
       <updated>1679893991278</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
