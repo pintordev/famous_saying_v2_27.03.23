@@ -12,6 +12,6 @@ public class Main {
 
         sc.close();
 
-        System.out.println("Application has terminated.");
+        System.out.println("Application has been terminated.");
     }
 }

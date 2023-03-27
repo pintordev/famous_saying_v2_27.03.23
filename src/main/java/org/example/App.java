@@ -18,6 +18,8 @@ public class App {
 
             if (command.equals("terminate")) {
                 break;
+            } else if (command.equals("register")) {
+                new CommandRegister(sc).run();
             }
 
         }
